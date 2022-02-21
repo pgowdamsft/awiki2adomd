@@ -5,7 +5,7 @@ Dependencies: [pandoc](https://pandoc.org)
 
 Step 1: export Wiki Space from Atlassian
 
-![](./img/conflu_export.png)
+![](img/confl_export.png)
 
 Step 2: Download the zip
 
